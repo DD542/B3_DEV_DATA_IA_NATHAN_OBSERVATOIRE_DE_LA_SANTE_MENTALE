@@ -1,0 +1,2 @@
+# B3_DEV_DATA_IA_NATHAN_OBSERVATOIRE_DE_LA_SANTE_MENTALE
+projet englobant de groupe
