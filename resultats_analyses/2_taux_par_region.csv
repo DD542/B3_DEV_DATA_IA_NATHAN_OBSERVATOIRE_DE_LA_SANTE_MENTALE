@@ -1,0 +1,21 @@
+﻿region_nom,taux_moyen,nb_departements
+Bretagne,19.46,4
+Normandie,17.13,5
+Pays de la Loire,16.0,5
+Nouvelle Aquitaine,15.33,12
+Hauts-de-France,14.95,5
+Centre-Val de Loire,14.91,6
+Bourgogne et Franche-Comté,14.54,8
+Grand Est,13.54,10
+Auvergne et Rhône-Alpes,12.6,12
+Occitanie,12.57,13
+Provence-Alpes-Côte d'Azur,12.29,6
+Guyane,10.17,1
+Guadeloupe,10.0,1
+Corse,9.95,2
+Réunion,9.68,1
+Île-de-France,8.06,8
+Martinique,7.53,1
+Mayotte,3.02,1
+Saint-Barthélemy,,1
+Saint-Martin,,1

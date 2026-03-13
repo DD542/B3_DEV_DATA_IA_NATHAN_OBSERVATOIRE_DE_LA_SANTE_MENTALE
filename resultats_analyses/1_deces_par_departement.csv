@@ -1,0 +1,104 @@
+﻿dept_nom,region_nom,total_deces
+Nord,Hauts-de-France,6920.0
+Pas-de-Calais,Hauts-de-France,5138.0
+Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,4242.0
+Paris,Île-de-France,4102.0
+Loire-Atlantique,Pays de la Loire,4069.0
+Ille-et-Vilaine,Bretagne,3814.0
+Seine-Maritime,Normandie,3781.0
+Finistère,Bretagne,3775.0
+Var,Provence-Alpes-Côte d'Azur,3559.0
+Morbihan,Bretagne,3520.0
+Gironde,Nouvelle Aquitaine,3433.0
+Côtes-d'Armor,Bretagne,3140.0
+Isère,Auvergne et Rhône-Alpes,3099.0
+Hérault,Occitanie,2996.0
+Haute-Garonne,Occitanie,2882.0
+Alpes-Maritimes,Provence-Alpes-Côte d'Azur,2870.0
+Bas-Rhin,Grand Est,2803.0
+Charente-Maritime,Nouvelle Aquitaine,2798.0
+Maine-et-Loire,Pays de la Loire,2720.0
+Vendée,Pays de la Loire,2568.0
+Calvados,Normandie,2531.0
+Moselle,Grand Est,2518.0
+Hauts-de-Seine,Île-de-France,2517.0
+Manche,Normandie,2410.0
+Seine-et-Marne,Île-de-France,2385.0
+Yvelines,Île-de-France,2370.0
+Sarthe,Pays de la Loire,2261.0
+Seine-Saint-Denis,Île-de-France,2252.0
+Loire,Auvergne et Rhône-Alpes,2178.0
+Haute-Savoie,Auvergne et Rhône-Alpes,2175.0
+Essonne,Île-de-France,2172.0
+Rhône,Auvergne et Rhône-Alpes,2159.0
+Saône-et-Loire,Bourgogne et Franche-Comté,2067.0
+Somme,Hauts-de-France,2038.0
+Puy-de-Dôme,Auvergne et Rhône-Alpes,2003.0
+Oise,Hauts-de-France,1967.0
+Meurthe-et-Moselle,Grand Est,1962.0
+Haut-Rhin,Grand Est,1957.0
+Val-de-Marne,Île-de-France,1954.0
+Gard,Occitanie,1950.0
+Aisne,Hauts-de-France,1889.0
+Indre-et-Loire,Centre-Val de Loire,1875.0
+Loiret,Centre-Val de Loire,1846.0
+Doubs,Bourgogne et Franche-Comté,1741.0
+Dordogne,Nouvelle Aquitaine,1735.0
+Eure,Normandie,1724.0
+Val-d'Oise,Île-de-France,1700.0
+Réunion,Réunion,1652.0
+Ain,Auvergne et Rhône-Alpes,1600.0
+Pyrénées-Orientales,Occitanie,1563.0
+Charente,Nouvelle Aquitaine,1510.0
+Vienne,Nouvelle Aquitaine,1468.0
+Marne,Grand Est,1467.0
+Pyrénées-Atlantiques,Nouvelle Aquitaine,1451.0
+Deux-Sèvres,Nouvelle Aquitaine,1448.0
+Vosges,Grand Est,1434.0
+Haute-Vienne,Nouvelle Aquitaine,1395.0
+Drôme,Auvergne et Rhône-Alpes,1308.0
+Vaucluse,Provence-Alpes-Côte d'Azur,1304.0
+Orne,Normandie,1290.0
+Aude,Occitanie,1192.0
+Allier,Auvergne et Rhône-Alpes,1181.0
+Loir-et-Cher,Centre-Val de Loire,1172.0
+Eure-et-Loir,Centre-Val de Loire,1134.0
+Cher,Centre-Val de Loire,1124.0
+Lot-et-Garonne,Nouvelle Aquitaine,1121.0
+Côte-d'Or,Bourgogne et Franche-Comté,1116.0
+Landes,Nouvelle Aquitaine,1112.0
+Yonne,Bourgogne et Franche-Comté,1102.0
+Tarn,Occitanie,1084.0
+Mayenne,Pays de la Loire,1040.0
+Savoie,Auvergne et Rhône-Alpes,996.0
+Corrèze,Nouvelle Aquitaine,966.0
+Ardèche,Auvergne et Rhône-Alpes,926.0
+Ardennes,Grand Est,926.0
+Indre,Centre-Val de Loire,896.0
+Haute-Loire,Auvergne et Rhône-Alpes,875.0
+Haute-Saône,Bourgogne et Franche-Comté,874.0
+Aube,Grand Est,848.0
+Jura,Bourgogne et Franche-Comté,792.0
+Aveyron,Occitanie,763.0
+Nièvre,Bourgogne et Franche-Comté,746.0
+Guadeloupe,Guadeloupe,746.0
+Meuse,Grand Est,712.0
+Tarn-et-Garonne,Occitanie,694.0
+Hautes-Pyrénées,Occitanie,652.0
+Lot,Occitanie,604.0
+Creuse,Nouvelle Aquitaine,577.0
+Gers,Occitanie,568.0
+Martinique,Martinique,546.0
+Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,538.0
+Cantal,Auvergne et Rhône-Alpes,523.0
+Haute-Marne,Grand Est,516.0
+Hautes-Alpes,Provence-Alpes-Côte d'Azur,509.0
+Ariège,Occitanie,497.0
+Guyane,Guyane,432.0
+Territoire de Belfort,Bourgogne et Franche-Comté,427.0
+Corse-du-Sud,Corse,399.0
+Haute-Corse,Corse,391.0
+Lozère,Occitanie,241.0
+Mayotte,Mayotte,135.0
+Saint-Martin,Saint-Martin,75.0
+Saint-Barthélemy,Saint-Barthélemy,50.0
