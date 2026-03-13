@@ -79,5 +79,6 @@ fig.update_layout(
     )]
 )
 
+fig.write_html("carte_psychiatres.html")
 fig.show()
 print("✅ Carte générée !")
